@@ -12,7 +12,10 @@
   ```java
  DifferentNotifications.hideBubble(context,notification,notificationID);
   ```
-  
+
+
+  使用：
+  ```java
    package xyz.anynotification;
 
 import android.app.Notification;
@@ -127,3 +130,5 @@ public class MainActivity extends AppCompatActivity {
         Log.e("0.0","Resume");
     }
 }
+
+  ```
