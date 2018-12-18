@@ -13,11 +13,7 @@
  DifferentNotifications.hideBubble(context,notification,notificationID);
   ```
   
-  
-  
-  
-  
-  package xyz.anynotification;
+   package xyz.anynotification;
 
 import android.app.Notification;
 import android.app.NotificationManager;
